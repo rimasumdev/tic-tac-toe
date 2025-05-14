@@ -26,7 +26,7 @@ git clone https://github.com/rimasumdev/tic-tac-toe.git
 ২. প্রজেক্ট ডিরেক্টরিতে যান:
 
 ```bash
-cd TikTac
+cd tic-tac-toe
 ```
 
 ৩. প্রয়োজনীয় npm প্যাকেজ ইনস্টল করুন:
