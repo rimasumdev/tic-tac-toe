@@ -20,7 +20,7 @@
 ১. এই রিপোজিটরিটি ক্লোন করুন:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/rimasumdev/tic-tac-toe.git
 ```
 
 ২. প্রজেক্ট ডিরেক্টরিতে যান:
